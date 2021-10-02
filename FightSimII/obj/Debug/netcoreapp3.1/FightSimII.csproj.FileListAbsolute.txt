@@ -1,0 +1,13 @@
+C:\Programmering 2\FightSimII\FightSimII\bin\Debug\netcoreapp3.1\FightSimII.exe
+C:\Programmering 2\FightSimII\FightSimII\bin\Debug\netcoreapp3.1\FightSimII.deps.json
+C:\Programmering 2\FightSimII\FightSimII\bin\Debug\netcoreapp3.1\FightSimII.runtimeconfig.json
+C:\Programmering 2\FightSimII\FightSimII\bin\Debug\netcoreapp3.1\FightSimII.runtimeconfig.dev.json
+C:\Programmering 2\FightSimII\FightSimII\bin\Debug\netcoreapp3.1\FightSimII.dll
+C:\Programmering 2\FightSimII\FightSimII\bin\Debug\netcoreapp3.1\FightSimII.pdb
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.csprojAssemblyReference.cache
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.AssemblyInfoInputs.cache
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.AssemblyInfo.cs
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.csproj.CoreCompileInputs.cache
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.dll
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.pdb
+C:\Programmering 2\FightSimII\FightSimII\obj\Debug\netcoreapp3.1\FightSimII.genruntimeconfig.cache
